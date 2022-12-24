@@ -25,3 +25,4 @@ print("{:.2f}".format(d))
 !["output"](/distance%20output.png)
 
 ### RESULT:
+Thus the solutions for distance  between two 2 points are successfully solved using python program
